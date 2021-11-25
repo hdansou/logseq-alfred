@@ -10,6 +10,8 @@
 
 #### `LQ` to interact with logseq
 
+![main window](./images/logseq-lq.png)
+
 Using the `lq` command:
 
 - search logseq for pages with provided keyword - `lqs search1
@@ -24,6 +26,8 @@ Using the `lq` command:
 - Check the installed logseq version and compare with the latest version on github - `lq version`
 
 #### `LQH` to get help and interact with the community
+
+![main window](./images/logseq-lqh.png)
 
 Using the `lqh` command to open logseq help and community related sites:
 
