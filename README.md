@@ -2,7 +2,14 @@
 
 ## Changelog
 
+### v0.0.2
+
+[[by @sawhney17]]
+- Support Searching via Keyword using logseq's new URL scheme
+- ![lqs](https://user-images.githubusercontent.com/536716/164122146-067197ee-7008-43fc-8fd8-ba1aca2acd7c.gif)
+
 ### v0.0.1
+
 
 #### `LQS` to interact with logseq
 
