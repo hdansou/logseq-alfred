@@ -76,7 +76,7 @@ You must configure the following variables before using the workflow:
 - `MyPKMPath` : FullPathToPKMFolder
 - `MyPKMConfigPath` : FullPathToPKMFolder/logseq/config.edn
 - `customCSSPath` : FullPathToPKMFolder/logseq/custom.css
-- `preferencesPath` : /Users/UserName/.logseq/preferences
+- `preferencesPath` : /Users/UserName/.logseq/preferences.json
 - `pluginPath` : /Users/UserName/.logseq/plugins
 
 ---
