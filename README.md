@@ -104,6 +104,7 @@ Using the `lqh` command to open logseq help and community related sites:
 
 You must configure the following variables before using the workflow:
 
+- `MyPKMVaultName` : FullNameOfVault
 - `MyPKMPath` : FullPathToPKMFolder
 - `MyPKMConfigPath` : FullPathToPKMFolder/logseq/config.edn
 - `customCSSPath` : FullPathToPKMFolder/logseq/custom.css
