@@ -6,7 +6,7 @@
 
 ### v0.4.0
 
-![Version 0.4.0 - Demo](./images/v0.4.0 - demo.mp4)
+<video src="https://d3ef876d6c63463f7a9d-77246f228cb26336ff90672f8ccfdb3b.ssl.cf1.rackcdn.com/v0.4.0%20-%20demo.mp4"></video>
 
 #### Search Feature
 
