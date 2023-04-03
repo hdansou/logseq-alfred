@@ -23,7 +23,7 @@ To use this feature, make sure to change the default quick capture config in the
 - Add TODO task to `quick capture` file with `lt`
 - Add TODO task to `journal` file with `ltj`
 
-[[by @Sangmin]]
+[[by Sangmin]]
 
 - Add web quick capture with double press on shift key
 

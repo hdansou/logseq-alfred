@@ -4,6 +4,9 @@
 
 ## Changelog
 
+### v0.4.2
+
+- Fix Contributors
 ### v0.4.0
 
 <video src="https://d3ef876d6c63463f7a9d-77246f228cb26336ff90672f8ccfdb3b.ssl.cf1.rackcdn.com/v0.4.0%20-%20demo.mp4"></video>
@@ -29,7 +32,7 @@ To use this feature, make sure to change the default quick capture config in the
 - Add TODO task to `quick capture` file with `lt`
 - Add TODO task to `journal` file with `ltj`
 
-[[by @Sangmin]]
+[[by Sangmin]]
 
 - Add web quick capture with double press on shift key
 
