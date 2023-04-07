@@ -98,7 +98,7 @@ Using the `lqh` command to open logseq help and community related sites:
 
 ## Install
 
-1. Download [Logseq Alfred Workflow File](https://github.com/hdansou/logseq-alfred/releases/download/v0.0.2/logseq.alfredworkflow).
+1. Download [Logseq Alfred Workflow File](https://github.com/hdansou/logseq-alfred/blob/main/logseq.alfredworkflow).
 2. Open it in Alfred.
 
 ---
